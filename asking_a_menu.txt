@@ -1,0 +1,44 @@
+May I see your bakery menu, please?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+Could you provide me with your menu?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+Do you have a menu I can take a look at?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+Is it possible to check out your bakery's offerings on a menu?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+I'd like to peruse your menu, if that's okay
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+Can you show me what items you have on your menu?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+I'm interested in your menu; could you bring it over?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+May I have a copy of your bakery's menu, please?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+Could you share your menu with me?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+Is there a bakery menu available for customers?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+I'd love to see what's on your bakery's menu, may I?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+Can you provide me with a menu for your bakery, please?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+Do you have a menu card with your baked goods listed?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+I'd appreciate it if you could show me your bakery's menu
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+May I have a menu so I can decide what to order from your bakery?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+Could you hand me your bakery menu, please?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+Is it possible to get a copy of your bakery's menu?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+I'm curious about your bakery menu; can you share it with me?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+I'd like to take a look at the menu for your bakery
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+Can you bring me the bakery menu so I can make my choice?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+May I have a menu please?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
+What all items do you have?
+Here are the items on the menu A:Macarons, B:Profiterole, C:Pain Au Chocolat, D:Mille Feuille, E:Eclair, F:Chouquette, G:Creme brulee, H:Pralines, I:Croissant 
