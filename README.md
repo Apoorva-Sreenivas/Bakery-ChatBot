@@ -1,5 +1,7 @@
 # Bakery-ChatBot
 This is a help chatbot for a bakery named le petessier. It is a general help chatbot to which you can ask questions about the items available in the store.
+# HOW TO RUN
+Run the window.py file and type the query in the entry box. To exit the chat enter bye.
 # Structure
 # .txt files
 They all contain the training data used to train the chatbot.
